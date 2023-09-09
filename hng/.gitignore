@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Django migrations
+*/__pycache__/
+*/migrations/
+
+# Local database file (SQLite)
+db.sqlite3
+
+# Environment variables (if using a .env file)
+.env
+
+# Compiled Python files
+*.pyc
+
+# IDE-specific files
+.vscode/
+.idea/
